@@ -76,3 +76,9 @@ src/kit/shapes.tsx     Pop, Drop, Figure + poses, Label, Icon set, Badge, CoinSt
 src/kit/title.tsx      Title (key phrase, HUD layer)
 src/compositions/      one folder per production (words.ts, scenes.tsx, <Project>.tsx)
 ```
+
+## Delivery (every final render)
+
+Push the exact, untouched MP4 (no re-encode, no compression) to the separate `renders` branch with Git LFS (`*.mp4` tracked),
+then give the owner the download link `https://github.com/silencator/finance-motion-studio/raw/renders/<file>.mp4`.
+Uploads need the `finance-motion-studio` cloud environment (allows lfs.github.com). Verify the link returns the full byte size.
