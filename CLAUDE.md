@@ -55,3 +55,24 @@ Do not re-analyse it and do not replace it with a generic finance template.
 - Audio via `<Audio>` from `@remotion/media`. Fonts self-hosted in `public/fonts`.
 - Preview with stills before full renders (`npm run stills`); render with `npm run render -- <Id> --video-bitrate=20M`.
 - Official Remotion agent skills live in `.agents/skills` (linked in `.claude/skills`).
+
+## Pipeline (commands)
+
+1. `npm run analyze -- public/audio/<name>.mp3 --noise -38 --min-silence 0.2` → `public/data/<name>.timing.json`
+2. `.venv/bin/python scripts/transcribe.py public/audio/<name>.mp3` → `public/data/<name>.transcript.json`
+   (setup if missing: `python3 -m venv .venv && .venv/bin/pip install numpy scipy soundfile sherpa-onnx`, model as above)
+3. Copy word times into `src/compositions/<project>/words.ts`; key scenes (`Scene from/to`), animations (`useT().p/pop/kf`) and `<Sfx>` cues to them.
+4. SFX library: `.venv/bin/python scripts/make-sfx.py` (whoosh-soft/fast/low/out, click, tick, pop, coin, thud, impact, impact-soft).
+5. Preview: `node scripts/stills.mjs <Id> <dir> 0.5 "s1,s2,…"`, tile with ffmpeg, inspect.
+6. Final: `npm run render -- <Id> --video-bitrate=20M --x264-preset=slow --audio-bitrate=320k` → `out/<Id>.mp4`.
+
+## Project map
+
+```
+src/design/tokens.ts   format (1440×1080 @ 60), FLOOR, mono palette, easings
+src/lib/time.tsx       useT (absolute-time progress, pop, keyframes), Scene (blur-ghost dissolve), Sfx
+src/kit/stage.tsx      Defs (glow filters), Backdrop (dot grid), Finish (vignette + grain), World (camera), floorCam, Spot, Floor, Halo
+src/kit/shapes.tsx     Pop, Drop, Figure + poses, Label, Icon set, Badge, CoinStack, Coin, Pack, Basket, Jar
+src/kit/title.tsx      Title (key phrase, HUD layer)
+src/compositions/      one folder per production (words.ts, scenes.tsx, <Project>.tsx)
+```

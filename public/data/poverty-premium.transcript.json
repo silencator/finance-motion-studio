@@ -1,0 +1,829 @@
+[
+ {
+  "start": 0,
+  "end": 2.832,
+  "text": "IMAGINED BUYING THE SAME GROCERIES AS SOME ONE ELSE",
+  "words": [
+   [
+    "IMAGINED",
+    0.0
+   ],
+   [
+    "BUYING",
+    0.52
+   ],
+   [
+    "THE",
+    0.84
+   ],
+   [
+    "SAME",
+    1.0
+   ],
+   [
+    "GROCERIES",
+    1.32
+   ],
+   [
+    "AS",
+    1.92
+   ],
+   [
+    "SOME",
+    2.08
+   ],
+   [
+    "ONE",
+    2.24
+   ],
+   [
+    "ELSE",
+    2.48
+   ]
+  ]
+ },
+ {
+  "start": 3.129,
+  "end": 4.6,
+  "text": "AND PAYING MORE FOR THEM",
+  "words": [
+   [
+    "AND",
+    3.03
+   ],
+   [
+    "PAYING",
+    3.35
+   ],
+   [
+    "MORE",
+    3.83
+   ],
+   [
+    "FOR",
+    4.11
+   ],
+   [
+    "THEM",
+    4.35
+   ]
+  ]
+ },
+ {
+  "start": 5.264,
+  "end": 7.114,
+  "text": "ONE PERSON CAN AFFORD THE BIG PACK",
+  "words": [
+   [
+    "ONE",
+    5.16
+   ],
+   [
+    "PERSON",
+    5.4
+   ],
+   [
+    "CAN",
+    5.8
+   ],
+   [
+    "AFFORD",
+    5.96
+   ],
+   [
+    "THE",
+    6.36
+   ],
+   [
+    "BIG",
+    6.52
+   ],
+   [
+    "PACK",
+    6.8
+   ]
+  ]
+ },
+ {
+  "start": 7.477,
+  "end": 10.21,
+  "text": "IT COSTS LESS PER ITEM SO THEY SAVE OVERTIME",
+  "words": [
+   [
+    "IT",
+    7.38
+   ],
+   [
+    "COSTS",
+    7.54
+   ],
+   [
+    "LESS",
+    7.94
+   ],
+   [
+    "PER",
+    8.18
+   ],
+   [
+    "ITEM",
+    8.38
+   ],
+   [
+    "SO",
+    8.86
+   ],
+   [
+    "THEY",
+    9.1
+   ],
+   [
+    "SAVE",
+    9.3
+   ],
+   [
+    "OVERTIME",
+    9.62
+   ]
+  ]
+ },
+ {
+  "start": 10.881,
+  "end": 13.152,
+  "text": "THE OTHER PERSON BUYS THE SMALLER PACK",
+  "words": [
+   [
+    "THE",
+    10.78
+   ],
+   [
+    "OTHER",
+    11.02
+   ],
+   [
+    "PERSON",
+    11.3
+   ],
+   [
+    "BUYS",
+    11.74
+   ],
+   [
+    "THE",
+    12.14
+   ],
+   [
+    "SMALLER",
+    12.34
+   ],
+   [
+    "PACK",
+    12.82
+   ]
+  ]
+ },
+ {
+  "start": 13.594,
+  "end": 14.998,
+  "text": "NOT BECAUSE IT'S A BETTER DEAL",
+  "words": [
+   [
+    "NOT",
+    13.49
+   ],
+   [
+    "BECAUSE",
+    13.73
+   ],
+   [
+    "IT'S",
+    13.97
+   ],
+   [
+    "A",
+    14.25
+   ],
+   [
+    "BETTER",
+    14.37
+   ],
+   [
+    "DEAL",
+    14.65
+   ]
+  ]
+ },
+ {
+  "start": 15.509,
+  "end": 17.263,
+  "text": "BECAUSE THAT'S WHAT THEY CAN AFFORD TO DAY",
+  "words": [
+   [
+    "BECAUSE",
+    15.41
+   ],
+   [
+    "THAT'S",
+    15.69
+   ],
+   [
+    "WHAT",
+    16.01
+   ],
+   [
+    "THEY",
+    16.17
+   ],
+   [
+    "CAN",
+    16.29
+   ],
+   [
+    "AFFORD",
+    16.49
+   ],
+   [
+    "TO",
+    16.89
+   ],
+   [
+    "DAY",
+    17.09
+   ]
+  ]
+ },
+ {
+  "start": 17.831,
+  "end": 20.232,
+  "text": "AND THIS CAN HAPPEN FAR BEYOND THE SUPER MARKET",
+  "words": [
+   [
+    "AND",
+    17.73
+   ],
+   [
+    "THIS",
+    17.85
+   ],
+   [
+    "CAN",
+    18.05
+   ],
+   [
+    "HAPPEN",
+    18.25
+   ],
+   [
+    "FAR",
+    18.69
+   ],
+   [
+    "BEYOND",
+    19.01
+   ],
+   [
+    "THE",
+    19.41
+   ],
+   [
+    "SUPER",
+    19.57
+   ],
+   [
+    "MARKET",
+    19.85
+   ]
+  ]
+ },
+ {
+  "start": 20.773,
+  "end": 23.815,
+  "text": "PAYING A BILL MONTHLY MAY COST MORE THAN PAYING UP FRONT",
+  "words": [
+   [
+    "PAYING",
+    20.67
+   ],
+   [
+    "A",
+    20.95
+   ],
+   [
+    "BILL",
+    21.07
+   ],
+   [
+    "MONTHLY",
+    21.31
+   ],
+   [
+    "MAY",
+    21.87
+   ],
+   [
+    "COST",
+    22.03
+   ],
+   [
+    "MORE",
+    22.47
+   ],
+   [
+    "THAN",
+    22.71
+   ],
+   [
+    "PAYING",
+    22.91
+   ],
+   [
+    "UP",
+    23.27
+   ],
+   [
+    "FRONT",
+    23.47
+   ]
+  ]
+ },
+ {
+  "start": 24.327,
+  "end": 27.864,
+  "text": "A CHEAPER PRODUCT THAT WEARS OUT QUICKLY MIGHT NEED REPLACING SOONER",
+  "words": [
+   [
+    "A",
+    24.23
+   ],
+   [
+    "CHEAPER",
+    24.35
+   ],
+   [
+    "PRODUCT",
+    24.71
+   ],
+   [
+    "THAT",
+    25.19
+   ],
+   [
+    "WEARS",
+    25.35
+   ],
+   [
+    "OUT",
+    25.67
+   ],
+   [
+    "QUICKLY",
+    25.87
+   ],
+   [
+    "MIGHT",
+    26.35
+   ],
+   [
+    "NEED",
+    26.55
+   ],
+   [
+    "REPLACING",
+    26.79
+   ],
+   [
+    "SOONER",
+    27.43
+   ]
+  ]
+ },
+ {
+  "start": 28.392,
+  "end": 30.602,
+  "text": "AND WHEN AN UNEXPECTED EXPENSE ARRIVES",
+  "words": [
+   [
+    "AND",
+    28.29
+   ],
+   [
+    "WHEN",
+    28.53
+   ],
+   [
+    "AN",
+    28.77
+   ],
+   [
+    "UNEXPECTED",
+    28.93
+   ],
+   [
+    "EXPENSE",
+    29.57
+   ],
+   [
+    "ARRIVES",
+    30.09
+   ]
+  ]
+ },
+ {
+  "start": 30.81,
+  "end": 34.392,
+  "text": "SOMEONE WITHOUT SAVINGS MAY HAVE TO BORROW AT A HIGH INTEREST RATE",
+  "words": [
+   [
+    "SOMEONE",
+    30.71
+   ],
+   [
+    "WITHOUT",
+    31.19
+   ],
+   [
+    "SAVINGS",
+    31.59
+   ],
+   [
+    "MAY",
+    32.23
+   ],
+   [
+    "HAVE",
+    32.47
+   ],
+   [
+    "TO",
+    32.63
+   ],
+   [
+    "BORROW",
+    32.79
+   ],
+   [
+    "AT",
+    33.19
+   ],
+   [
+    "A",
+    33.35
+   ],
+   [
+    "HIGH",
+    33.47
+   ],
+   [
+    "INTEREST",
+    33.75
+   ],
+   [
+    "RATE",
+    34.19
+   ]
+  ]
+ },
+ {
+  "start": 35.032,
+  "end": 37.417,
+  "text": "ECONOMISTS CALL THIS THE POVERTY PREMIUM",
+  "words": [
+   [
+    "ECONOMISTS",
+    34.93
+   ],
+   [
+    "CALL",
+    35.69
+   ],
+   [
+    "THIS",
+    35.93
+   ],
+   [
+    "THE",
+    36.17
+   ],
+   [
+    "POVERTY",
+    36.37
+   ],
+   [
+    "PREMIUM",
+    36.93
+   ]
+  ]
+ },
+ {
+  "start": 37.787,
+  "end": 42.627,
+  "text": "THE EXTRA COSTS PEOPLE CAN FACE WHEN THEY DON'T HAVE ENOUGH MONEY TO ACCESS CHEAPER OPTIONS",
+  "words": [
+   [
+    "THE",
+    37.69
+   ],
+   [
+    "EXTRA",
+    37.85
+   ],
+   [
+    "COSTS",
+    38.25
+   ],
+   [
+    "PEOPLE",
+    38.77
+   ],
+   [
+    "CAN",
+    39.01
+   ],
+   [
+    "FACE",
+    39.25
+   ],
+   [
+    "WHEN",
+    39.61
+   ],
+   [
+    "THEY",
+    39.77
+   ],
+   [
+    "DON'T",
+    39.97
+   ],
+   [
+    "HAVE",
+    40.25
+   ],
+   [
+    "ENOUGH",
+    40.41
+   ],
+   [
+    "MONEY",
+    40.65
+   ],
+   [
+    "TO",
+    40.97
+   ],
+   [
+    "ACCESS",
+    41.13
+   ],
+   [
+    "CHEAPER",
+    41.61
+   ],
+   [
+    "OPTIONS",
+    42.05
+   ]
+  ]
+ },
+ {
+  "start": 43.112,
+  "end": 45.078,
+  "text": "MONEY DOESN'T JUST BUY THINGS",
+  "words": [
+   [
+    "MONEY",
+    43.01
+   ],
+   [
+    "DOESN'T",
+    43.41
+   ],
+   [
+    "JUST",
+    43.85
+   ],
+   [
+    "BUY",
+    44.17
+   ],
+   [
+    "THINGS",
+    44.53
+   ]
+  ]
+ },
+ {
+  "start": 45.386,
+  "end": 46.529,
+  "text": "ADVISE CHOICES",
+  "words": [
+   [
+    "ADVISE",
+    45.29
+   ],
+   [
+    "CHOICES",
+    45.81
+   ]
+  ]
+ },
+ {
+  "start": 46.962,
+  "end": 52.079,
+  "text": "THE CHANCE TO BUY AND BULK WAIT FOR A SALE PAY UP FRONT OR HANDLE AN EMERGENCY",
+  "words": [
+   [
+    "THE",
+    46.86
+   ],
+   [
+    "CHANCE",
+    47.02
+   ],
+   [
+    "TO",
+    47.34
+   ],
+   [
+    "BUY",
+    47.58
+   ],
+   [
+    "AND",
+    47.82
+   ],
+   [
+    "BULK",
+    48.02
+   ],
+   [
+    "WAIT",
+    48.46
+   ],
+   [
+    "FOR",
+    48.82
+   ],
+   [
+    "A",
+    48.98
+   ],
+   [
+    "SALE",
+    49.1
+   ],
+   [
+    "PAY",
+    49.66
+   ],
+   [
+    "UP",
+    49.94
+   ],
+   [
+    "FRONT",
+    50.1
+   ],
+   [
+    "OR",
+    50.58
+   ],
+   [
+    "HANDLE",
+    50.86
+   ],
+   [
+    "AN",
+    51.26
+   ],
+   [
+    "EMERGENCY",
+    51.38
+   ]
+  ]
+ },
+ {
+  "start": 52.727,
+  "end": 53.597,
+  "text": "WHEN MONEY IS TAPE",
+  "words": [
+   [
+    "WHEN",
+    52.63
+   ],
+   [
+    "MONEY",
+    52.79
+   ],
+   [
+    "IS",
+    53.11
+   ],
+   [
+    "TAPE",
+    53.31
+   ]
+  ]
+ },
+ {
+  "start": 53.951,
+  "end": 55.577,
+  "text": "THOSE CHOICES CAN DISAPPEAR",
+  "words": [
+   [
+    "THOSE",
+    53.85
+   ],
+   [
+    "CHOICES",
+    54.13
+   ],
+   [
+    "CAN",
+    54.69
+   ],
+   [
+    "DISAPPEAR",
+    54.93
+   ]
+  ]
+ },
+ {
+  "start": 56.144,
+  "end": 58.817,
+  "text": "SO POVERTY ISN'T ONLY HAVING LESS MONEY",
+  "words": [
+   [
+    "SO",
+    56.04
+   ],
+   [
+    "POVERTY",
+    56.36
+   ],
+   [
+    "ISN'T",
+    57.0
+   ],
+   [
+    "ONLY",
+    57.44
+   ],
+   [
+    "HAVING",
+    57.8
+   ],
+   [
+    "LESS",
+    58.2
+   ],
+   [
+    "MONEY",
+    58.48
+   ]
+  ]
+ },
+ {
+  "start": 59.344,
+  "end": 62.354,
+  "text": "SOMETIMES IT MEANS PAYING MORE FOR WHAT YOU NEED",
+  "words": [
+   [
+    "SOMETIMES",
+    59.24
+   ],
+   [
+    "IT",
+    59.92
+   ],
+   [
+    "MEANS",
+    60.16
+   ],
+   [
+    "PAYING",
+    60.52
+   ],
+   [
+    "MORE",
+    60.92
+   ],
+   [
+    "FOR",
+    61.24
+   ],
+   [
+    "WHAT",
+    61.44
+   ],
+   [
+    "YOU",
+    61.64
+   ],
+   [
+    "NEED",
+    61.88
+   ]
+  ]
+ }
+]
